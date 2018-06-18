@@ -1,0 +1,38 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+div{
+	font-size:20px;
+}
+.backg1 {
+    /* The image used */
+    background-image: url("images/1.jpg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.backg2 {
+    /* The image used */
+    background-image: url("images/2.jpg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+h3, h4{
+	color:#FF00FF;
+}
+
