@@ -6,9 +6,7 @@ color: #707070;
 text-align: justify;
 }
 div{
-	font-size:20px;width: 80%;
-  margin: auto;
-  overflow: hidden;
+	font-size:20px;
 }
 .backg1 {
     /* The image used */
